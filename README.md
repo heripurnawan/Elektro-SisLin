@@ -18,8 +18,8 @@ Pertemuan 9, 08 November 2024  >> Topik: Analisis domain sistem linier waktu dis
 
 Pertemuan 10, 15 November 2024 >> Topik: Analisis domain sistem linier waktu diskrit (Respon impuls, konvolusi sum, & zero-state respon) --> Lec4
 
-Pertemuan 11, 22 November 2024 >> Topik: Transformasi Laplace (definisi & sifat) 
+Pertemuan 11, 22 November 2024 >> Topik: Transformasi Laplace (definisi & sifat) --> Lec5
 
-Pertemuan 12, 29 November 2024 >> Topik: Aplikasi transformasi Laplace (Solusi PD linier, fungsi transfer & analisis rangkaian listrik sederhana)
+Pertemuan 12, 29 November 2024 >> Topik: Aplikasi transformasi Laplace (Solusi PD linier, fungsi transfer & analisis rangkaian listrik sederhana) --> Lec5
 
 Pertemuan 13, 06 Desember 2024 >> Quiz 2
